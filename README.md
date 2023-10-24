@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
     <meta charset="UTF-8">
     <title>Daniel Silva de Souza Portfolio</title>
@@ -62,5 +61,4 @@
     <footer>
         <p>&copy; 2023 Daniel Silva de Souza</p>
     </footer>
-</body>
-</html>
+
